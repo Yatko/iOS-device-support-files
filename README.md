@@ -9,6 +9,6 @@ iOS 13 device support files
 
 **To use**: download and copy *iOS-device-support-files* to
 ```sh
-/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
 > open Applications folder in Finder, right click on Xcode and "Show Package Contents"
