@@ -3,9 +3,9 @@ iOS 13 device support files
 
 > Error:
 >
-> iOS 13 not supported by Xcode 11. : Could not locate device support files
+> iOS 15 not supported by Xcode 13. : Could not locate device support files
 >
-> iOS 12 not supported by Xcode     : Could not locate device support files
+> iOS 15 not supported by Xcode     : Could not locate device support files
 
 **To use**: download and copy *iOS-device-support-files* to
 ```sh
