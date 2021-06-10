@@ -1,5 +1,5 @@
 # iOS-device-support-files
-iOS 13 device support files
+iOS 15 device support files
 
 > Error:
 >
